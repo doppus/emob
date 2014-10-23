@@ -2,14 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/D:/www/paginas_php5/centurion/application/configs/db.ini</file>
-            <file>file:/D:/www/paginas_php5/centurion/library/Centurion/Contrib/auth/data/data.sql</file>
-            <file>file:/D:/www/paginas_php5/centurion/library/Centurion/Contrib/admin/controllers/LoginController.php</file>
-            <file>file:/D:/www/paginas_php5/centurion/library/Centurion/Contrib/auth/forms/Login.php</file>
-            <file>file:/D:/www/paginas_php5/centurion/library/Centurion/Auth.php</file>
-            <file>file:/D:/www/paginas_php5/centurion/library/Zend/Auth/Storage/Session.php</file>
-            <file>file:/D:/www/paginas_php5/centurion/library/Centurion/Controller/Action.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
